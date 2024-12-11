@@ -1,6 +1,10 @@
 Functions:
 IP Address and Port Entry
 
+Server works on : 
+IP : 127.0.0.1
+Port : 8080
+
 The user can specify an IP address and port number for sending.
 Sending Messages
 
@@ -25,3 +29,5 @@ Messages are sent using the UDP protocol.
 Adding an Application Icon
 
 A special application icon (icon) has been added to the application window.
+
+
